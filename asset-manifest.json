@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kyagseo/static/css/main.b0e0879b.css",
+    "main.js": "/kyagseo/static/js/main.de78d7fc.js",
+    "static/js/156.cc01b4be.chunk.js": "/kyagseo/static/js/156.cc01b4be.chunk.js",
+    "index.html": "/kyagseo/index.html",
+    "main.b0e0879b.css.map": "/kyagseo/static/css/main.b0e0879b.css.map",
+    "main.de78d7fc.js.map": "/kyagseo/static/js/main.de78d7fc.js.map",
+    "156.cc01b4be.chunk.js.map": "/kyagseo/static/js/156.cc01b4be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0e0879b.css",
+    "static/js/main.de78d7fc.js"
+  ]
+}
